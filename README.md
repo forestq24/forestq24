@@ -1,11 +1,8 @@
-# Hi there, I'm Forest! 👋
+# Hi, I'm Forest! 👋
 
 ## Software Engineer @ 168 Group | CS @ University of Michigan | Full-Stack Developer
 
-## 🚀 About Me
-
-- 🎓 **Computer Science** student at University of Michigan
-- 💼 **Software Engineer Intern** at 168 Group, building full-stack digital signage platforms
+## About Me
 - 🌐 **Full-Stack Developer** with experience in React, Next.js, TypeScript, and cloud technologies
 - 📊 **Research Experience** in organizational behavior data analysis at UPenn Wharton
 - 🔍 Passionate about building scalable web applications and data-driven solutions
