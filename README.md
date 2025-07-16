@@ -58,16 +58,6 @@
 
 ## 🔥 Featured Projects
 
-### 🎮 [C++ Euchre Card Game Simulator](https://github.com/forestq24/euchre-simulator)
-- Built a complete Euchre simulator with AI player strategies using OOP design patterns and STL
-- Implemented robust game logic, state management, and intuitive command-line interface
-- Applied test-driven development (TDD) methodology for reliable gameplay mechanics
-
-### 🌤️ [Python Weather-Based Clothing Suggester](https://github.com/forestq24/weather-clothing-app)
-- Developed intelligent weather application integrating WeatherAPI for real-time clothing recommendations
-- Implemented comprehensive error handling, data validation, and secure API authentication
-- Created seamless user experience with location-based personalized suggestions
-
 ### 💼 Digital Signage Management Platform
 - **Current Role**: Architected full-stack platform using Next.js 15, React 19, TypeScript, and Supabase
 - **Impact**: Serving 8+ retail locations with real-time WebSocket content distribution
@@ -77,20 +67,6 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=forestq24&theme=tokyonight" alt="Profile Summary"/>
 </div>
-
-## 📊 Current Focus
-
-- 🔧 **Building scalable web applications** with modern React and Next.js frameworks
-- 🛡️ **Implementing enterprise security** patterns and authentication systems
-- 📈 **Optimizing performance** for high-traffic applications and real-time systems
-- 🎯 **Exploring AI/ML integration** in web applications and data analysis
-
-## 🎯 Experience Highlights
-
-- **Software Engineer Intern** @ 168 Group - Building enterprise digital signage solutions
-- **Research Assistant** @ UPenn Wharton - Data analysis and network visualization systems
-- **Front-End Developer** - API integrations and TypeScript migrations
-- **Marketing Specialist** - Digital brand promotion and content creation
 
 ## 🤝 Let's Connect!
 
