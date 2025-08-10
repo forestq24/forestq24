@@ -56,10 +56,14 @@
 ## 🔥 Featured Projects
 
 ### 💼 Digital Signage Management Platform
-- **Current Role**: Architected full-stack platform using Next.js 15, React 19, TypeScript, and Supabase
+- **Brief**: Architected full-stack platform using Next.js 15, React 19, TypeScript, and Supabase
 - **Impact**: Serving 8+ retail locations with real-time WebSocket content distribution
 - **Performance**: Achieved 500ms API response times and 99.5% uptime with 30-second emergency override
 - **Security**: Implemented enterprise-grade architecture with JWT tokens, IP whitelisting, and Row Level Security
+  
+### Balatro! But in your Terminal
+- **Brief**: Balatro the card game that can be played directly in your terminal
+- **Languages**: C++
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=forestq24&theme=tokyonight" alt="Profile Summary"/>
