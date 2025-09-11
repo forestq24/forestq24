@@ -4,7 +4,7 @@
 
 ## About Me
 - 🌐 **Full-Stack Developer** with experience in React, Next.js, TypeScript, and cloud technologies
-- 📊 **Research Experience** in organizational behavior data analysis at UPenn Wharton
+- 📊 **Research Experience** in organizational behavior  at UPenn Wharton
 - 🔍 Passionate about building scalable web applications and data-driven solutions
 
 ## 💻 Tech Stack
