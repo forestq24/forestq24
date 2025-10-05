@@ -55,6 +55,9 @@
 
 ## 🔥 Featured Projects
 
+### RentAI (MHacks 2025)
+- **https://devpost.com/software/rent-ai**
+
 ### 💼 Digital Signage Management Platform
 - **Brief**: Architected full-stack platform using Next.js 15, React 19, TypeScript, and Supabase
 - **Impact**: Serving 8+ retail locations with real-time WebSocket content distribution
