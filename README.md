@@ -57,6 +57,9 @@
 
 ### RentAI (MHacks 2025)
 - **https://devpost.com/software/rent-ai**
+  
+- ### M3SH (HackDearborn 2025)
+- **https://devpost.com/software/m3sh-vhqy3j**
 
 ### 💼 Digital Signage Management Platform
 - **Brief**: Architected full-stack platform using Next.js 15, React 19, TypeScript, and Supabase
