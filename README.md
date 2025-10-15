@@ -58,7 +58,7 @@
 ### RentAI (MHacks 2025)
 - **https://devpost.com/software/rent-ai**
   
-- ### M3SH (HackDearborn 2025)
+### M3SH (HackDearborn 2025)
 - **https://devpost.com/software/m3sh-vhqy3j**
 
 ### 💼 Digital Signage Management Platform
