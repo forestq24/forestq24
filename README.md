@@ -3,9 +3,9 @@
 ## Prev Software Engineer Intern @ 168 Group | CSE @ University of Michigan
 
 ## About Me
-- 🌐 **Full-Stack Developer** with experience in React, Next.js, TypeScript, and cloud technologies
-- 📊 **Research Experience** in organizational behavior at UPenn Wharton
-- 🔍 Passionate about building scalable web applications and data-driven solutions
+- 💻 **Full-stack developer** working primarily in React, Next.js, TypeScript, and Supabase
+- 🔧 **Versatile builder** with experience spanning software and hardware, including embedded devices and cloud infrastructure
+- 📊 **Research background** in organizational behavior at UPenn Wharton
 
 ## 💻 Tech Stack
 <table>
