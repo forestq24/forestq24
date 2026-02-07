@@ -54,7 +54,6 @@
     <td><strong>Hardware & Embedded</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Embedded%20Systems-00979D?style=flat-square&logo=arduino&logoColor=white"/>
     </td>
   </tr>
   <tr>
